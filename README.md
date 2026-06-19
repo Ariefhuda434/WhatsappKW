@@ -111,6 +111,3 @@ whatsapp-kw/
 └── README.md
 ```
 
-## License
-
-MIT
